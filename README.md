@@ -15,9 +15,15 @@ Este repositório reúne as atividades desenvolvidas na disciplina de Qualidade 
 - `src/` → Código-fonte (quando aplicável)
 - `referencias/` → Materiais de apoio e bibliografia
 
-## 📦 Entregas
+## 📦 Entregas Realizadas
 
-As entregas parciais e finais estão organizadas por atividade na pasta `docs/`.
+### Atividade 01 - Trabalho 1 (LocalEats)
+
+- PBL 1 - Diagnóstico Inicial da Qualidade
+- PBL 2 - Diagnóstico Organizacional de QA
+- PBL 3 - Estratégia Inicial de Testes
+- PBL 4 - Testes Funcionais vs Estruturais
+- PBL 5 - Planejamento e Execução de Testes
 
 ## 🧩 Metodologia
 
